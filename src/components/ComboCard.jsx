@@ -274,7 +274,7 @@ const ComboCard = ({ combo }) => {
                     />
                   </div>
                   <div className="p-4">
-                    <h4 className="text-white font-semibold mb-2">Designer Shoessssss</h4>
+                    <h4 className="text-white font-semibold mb-2">Designer Shoes</h4>
                     <p className="text-gray-400 text-sm">
                       Comfortable and stylish footwear
                     </p>
